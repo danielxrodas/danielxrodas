@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Adrian Rodas-Ruiz
+# Hi, I'm Daniel Adrian Rodas-Ruiz
 
 🎓 Computer Science Student | 💻 Aspiring Backend Engineer
 🚀 Passionate about building scalable systems, APIs, and robust backend architectures.
@@ -25,7 +25,7 @@ I'm currently pursuing a B.S. in Computer Science while working on real-world pr
 
 ### 📫 Let’s Connect
 
-[![LinkedIn Badge]](https://www.linkedin.com/in/danielrodasruiz/)  
+LinkedIn Account: https://www.linkedin.com/in/danielrodasruiz/    
 📧 Email: **rodasruizdaniel@gmail.com**
 
 ---
