@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Adrian Rodas-Ruiz
 
-<!--
-**danielxrodas/danielxrodas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Aspiring Backend Engineer
+🚀 Passionate about building scalable systems, APIs, and robust backend architectures.
 
-Here are some ideas to get you started:
+I'm currently pursuing a B.S. in Computer Science while working on real-world projects and freelance web applications. My focus is backend development—designing clean, efficient, and maintainable systems that power user-centric platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, Java, SQL  
+- **Frameworks:** Spring Boot, Flask, Django  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools & Platforms:** Git & GitHub, Docker, Postman, Warp, REST APIs
+
+---
+
+### 📌 Current Projects
+
+- 🌐 **Personal Portfolio** – Built with React.js and EmailJS to showcase my work and accept professional inquiries  
+- 📸 **Social Media Platform** – A full-stack web app using Flask/Django for backend, featuring authentication, posting, and user profiles
+
+---
+
+### 📫 Let’s Connect
+
+[![LinkedIn Badge]](https://www.linkedin.com/in/danielrodasruiz/)  
+📧 Email: **rodasruizdaniel@gmail.com**
+
+---
+
+🧠 *Always learning. Always building.*
