@@ -64,8 +64,8 @@ International Legal Tech Team — Enlace Profesional de Consultores
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/danielrodasruiz/  
-Email: rodasruizdaniel@gmail.com
-Portfolio: http://daniel-rodas-ruiz-portfolio.s3-website-us-west-1.amazonaws.com/
+**LinkedIn:** https://www.linkedin.com/in/danielrodasruiz/  
+**Email:** rodasruizdaniel@gmail.com  
+**Portfolio:** http://daniel-rodas-ruiz-portfolio.s3-website-us-west-1.amazonaws.com/
 
 ---
