@@ -61,6 +61,5 @@ Currently, I’m working as a Software Engineering Intern, where I analyze and i
 
 **LinkedIn:** https://www.linkedin.com/in/danielrodasruiz/  
 **Email:** rodasruizdaniel@gmail.com  
-**Portfolio:** http://daniel-rodas-ruiz-portfolio.s3-website-us-west-1.amazonaws.com/
 
 ---
