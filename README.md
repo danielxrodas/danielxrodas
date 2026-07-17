@@ -1,6 +1,6 @@
 # Daniel Adrian Rodas-Ruiz
 
-🎓 Computer Science Student @ Santa Monica College (Transfer Fall 2026)  
+🎓 Data Science Student @ University of California, Santa Barbara | Expected Graduation Date: 2028
 💻 Software Engineering Intern | Backend-Focused Developer  
 🚀 Building scalable systems, AI-powered applications, and production-ready APIs  
 
@@ -37,21 +37,16 @@ Currently, I’m working as a Software Engineering Intern, where I analyze and i
 - Achieved ~80% backend test coverage (JUnit, Mockito)  
 - Evaluated performance using 100+ real-world documents with 78% response accuracy  
 
-🔗 Live Demo: https://dpt86f2z5uhqz.cloudfront.net/
-For more details you can check my GitHub Repository  
+### DocSync — Real-Time Collaborative Editor Backend (In Progress)  
+**Java · Spring Boot · PostgreSQL · Spring WebSocket · STOMP · JWT**
 
----
-
-## 💼 Experience
-
-**Software Engineering Intern**  
-International Legal Tech Team — Enlace Profesional de Consultores  
-*Dec 2025 – Present*
-
-- Evaluated and improved AI document processing systems  
-- Analyzed 50+ test cases to improve output consistency and reliability  
-- Proposed backend optimizations reducing expected bottlenecks by ~25%  
-
+- Developing a Google Docs–style collaborative editing backend enabling users to create rooms, join shared documents, and synchronize document changes in real time
+- Building a layered Spring Boot architecture with REST APIs, WebSocket communication, JWT authentication, and PostgreSQL persistence
+- Implementing document and room lifecycle management with Spring Data JPA, Hibernate, Flyway migrations, and transactional service design
+- Designing a real-time collaboration engine using in-memory state management, concurrency control, and version tracking for handling simultaneous edits
+- Developing document versioning and optimistic locking strategies to maintain consistency during concurrent updates
+- Structuring a scalable backend foundation with a roadmap toward distributed WebSocket scaling using Redis Pub/Sub and message brokers
+- Expanding the system through a phased development plan covering authentication, persistence, real-time editing, cursor tracking, and testing
 ---
 
 ## 📌 What I'm Focused On
